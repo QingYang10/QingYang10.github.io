@@ -10,12 +10,12 @@ Professional Organizations:
 -----
 
 * Outreach and Engagement Committee Co-Chair. <br>
-* International Chinese Statistical Association (ICSA). 2023 - 2026<br>
-Webinar sub-committee founding Co-Chair. <br>
+International Chinese Statistical Association (ICSA). 2023 - 2026<br>
+* Webinar sub-committee founding Co-Chair. <br>
 International Chinese Statistical Association (ICSA). 2023 - 2026 <br>
-** See details in our [committee flyer](../service/ICSA_Webinar_Flyer.pdf)<br>
-** Please check out our [YouTube Channel](www.youtube.com/@ICSA-Webinar) for past webinar recordings. 
-** If you are interested in organizing any webinar or being a speaker, please contact me. 
+  * See details in our [committee flyer](../service/ICSA_Webinar_Flyer.pdf)<br>
+  * Please check out our [YouTube Channel](www.youtube.com/@ICSA-Webinar) for past webinar recordings. 
+  * If you are interested in organizing any webinar or being a speaker, please contact me. 
 
 
 * Conference Organizing Committee and Poster Session Chair <br>
