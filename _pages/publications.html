@@ -353,12 +353,8 @@ display: none;
 </div>
 
 
-{% if site.author.googlescholar %}
-<div class="wordwrap">
-You can find a complete list of my publication on
-<a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
-</div>
-<p>{% endif %}</p>
+<div id="selected-publications" class="section level2">
+<h2>Selected Publications</h2>
 <ol style="list-style-type: decimal">
 <li>Yang, Q., Jiang, M., Li, C., Luo, S., Crowley, M. J., &amp; Shaw, R.
 J. (2024). Predicting health outcomes with intensive longitudinal data
@@ -367,7 +363,8 @@ regression approach. BMC Medical Research Methodology, 24(1), 1-10 DOI:
 <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02193-7" class="uri">https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02193-7</a></li>
 <li>Yang Q, Zhao A, Lee C, Wang X, Vorderstrasse A, Wolever RQ. Latent
 Profile/Class Analysis Identifying Differentiated Intervention Effects.
-Nurs Res. 2022 Apr 13; <a href="doi:10.1097/NNR.0000000000000597" class="uri">doi:10.1097/NNR.0000000000000597</a>. PMID: 35417442.</li>
+Nurs Res. 2022 Apr 13; <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02193-7">doi:10.1097/NNR.0000000000000597</a>.
+PMID: 35417442.</li>
 <li>Yang, Q., Hatch, D., Crowley, M. J., Lewinski, A. A., Vaughn, J.,
 Steinberg, D., … Shaw, R. J. (2020). Digital Phenotyping Self-Monitoring
 Behaviors for Individuals With Type 2 Diabetes Mellitus: Observational
@@ -397,6 +394,13 @@ Technologies: Protocol for a Development and Feasibility Trial. JMIR Res
 Protoc, 8(6), e13517. <a href="https://doi.org/10.2196/13517" class="uri">https://doi.org/10.2196/13517</a> PMID: 31162127. PMCID:
 PMC6746071.</li>
 </ol>
+{% if site.author.googlescholar %}
+<div class="wordwrap">
+You can find a complete list of my publication on
+<a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+</div>
+<p>{% endif %}</p>
+</div>
 
 
 
