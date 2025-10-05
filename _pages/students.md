@@ -23,47 +23,43 @@ Youlan Lee
 Topic: The influence of social determinants of health and diet quality on symptom experiences in patients with colorectal cancer
 Role: Dissertation committee member
 
-Nicole Caviness-Ashe, Duke University School of Nursing
+Nicole Caviness-Ashe
 Topic: Disparities in Health Among Survivors of Acute Leukemia: A Systematic or Systemic Problem
 Role: Dissertation committee member
 
-Jihye Scroggin, Duke University School of Nursing
+[Jihye Scroggin](https://nursing.unc.edu/people/jihye-scroggins)
 Topic: Trajectories of Sleep Disturbance among Healthy Mothers in the Fourth Trimester
 Role: Dissertation committee member
 
-Se Hee Min, Duke University School of Nursing
+[Se Hee Min](https://www.nursing.upenn.edu/live/profiles/19595-se-hee-min)
 Topic: Symptom Cluster of Midlife Women with Metabolic Syndrome During Menopausal Transition
 Role: Dissertation committee Co-Chair
 
-Bonnie Hepler, Duke University School of Nursing
-Topic: Trajectories of Maternal Needs and their Impact on Mother Infant Interactions
-Role: Dissertation committee member
-
-Chiyoung Lee, Duke University School of Nursing
+[Chiyoung Lee](https://nursing.arizona.edu/clee33)
 Topic: Trends in income disparities in CVD risk among older adults in Korea
 Role: Committee Member
 
-Matthew R LeBlanc, Duke University School of Nursing
+[Matthew R LeBlanc](https://nursing.unc.edu/people/matthew-leblanc)
 Topic: Symptom Burden and Quality of Life in Multiple Myeloma Patients
 Role: Committee Member
 
-Jacqueline Vaughn, Duke University School of Nursing
+[Jacqueline Vaughn](https://uncw.edu/profiles/v/vaughnj)
 Topic: Using mobile technology to collect and use real-time data for children with congenital heart defects.
 Role: Committee Member
 
-Zhao Ni, Duke University School of Nursing
+[Zhao Ni](https://nursing.yale.edu/faculty-research/faculty-directory/zhao-ni-phd-bmed-rn-faan-faha)
 Topic: Mobile Technology Based Medication Reminder Program for Patients in China with Coronary Heart Disease
 Role: Committee Member
 
-Gabrielle Harris, Duke University School of Nursing
+Gabrielle Harris
 Topic: Parental stress and the association with change in health status among young adult survivors with school-age children
 Role: Committee Member
 
-Kristin Wainright, Duke University School of Nursing
+Kristin Wainright
 Topic: Specific and Pervasive Symptoms in Adults with Multiple Sclerosis Using the MURDOCK-MS Dataset: A Secondary Analysis
 Role: Committee Member
 
-Kaboni Gondwe, Duke University School of Nursing (Spring 2014- summer 2018)
+[Kaboni Gondwe](https://nursing.uw.edu/person/6239384-kaboni-whitney-gondwe/)
 Topic: Emotional Responses and Mother-Infant Interactions of Malawian Mothers with Preterm Infants and Full-term Infants
 Role: Committee Member
 
