@@ -8,20 +8,20 @@ author_profile: true
 My teaching philosophy centers on fostering critical thinking and active learning. I engage students by asking thoughtful questions that fosters deep reflection and connections between concepts and practice. I also emphasize applying statistical methods to real-world problems to reinforce understanding through relevance and application.
 
 **NURSING 911: Introductory Statistics**<br>
-*Offered in-person at Pearson building in the Fall semester<br>
-*This course introduces core statistical concepts and common univariate and bivariate analyses in health and behavioral sciences. 
+* Offered in-person at Pearson building in the Fall semester<br>
+* This course introduces core statistical concepts and common univariate and bivariate analyses in health and behavioral sciences. 
 Topics include measurement levels, descriptive statistics, sampling distributions, estimation, hypothesis testing, t-tests, one-way ANOVA, nonparametric tests, correlation, simple regression, and power and effect size. 
 Students also develop basic data management skills and gain hands-on experience with statistical software through applied assignments.<br>
-*This course is designed for researchers in medical science seeking an introduction to statistics. Email me for a permission number to enroll. See [syllabus](../_teaching/N911_syllabus.pdf) for details.
+* This course is designed for researchers in medical science seeking an introduction to statistics. Email me for a permission number to enroll. See [syllabus](../_teaching/N911_syllabus.pdf) for details.
 
 **NURSING 911L: Statistical Programming I**<br>
-*Offered in-person at Pearson building in the Fall semester<br>
-*The course provides students with fundamental knowledge of the R . 
+* Offered in-person at Pearson building in the Fall semester<br>
+* The course provides students with fundamental knowledge of the R . 
 The course covers programming language, data management, data analysis, and data visualizations focusing on commonly used procedures for univariate and bivariate analyses in nursing and health sciences. 
-*Best to enroll together with NURSING 911. 
+* Best to enroll together with NURSING 911. 
 
 **NURSING 966: Quantitative Analysis for Evaluating Health Care Practices**<br>
-*Offered online in the Spring semester<br>
+* Offered online in the Spring semester<br>
 
       
 Independent Study (NURSING 922 Special Reading)
