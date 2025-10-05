@@ -24,7 +24,7 @@ The course covers programming language, data management, data analysis, and data
 *Offered online in the Spring semester<br>
 
       
-Independent Study
+Independent Study (NURSING 922 Special Reading)
 -----
 I offer small-group independent studies (2–3 students) that make advanced statistical modeling both accessible and directly relevant to your research. 
 Each group centers on a specific method, with structured, hands-on learning in a supportive peer environment. This format fosters community among doctoral students, helps you apply complex techniques to your dissertation, and provides a clear path to completing projects within a semester. 
