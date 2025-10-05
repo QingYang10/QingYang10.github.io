@@ -12,7 +12,7 @@ My teaching philosophy centers on fostering critical thinking and active learnin
 *This course introduces core statistical concepts and common univariate and bivariate analyses in health and behavioral sciences. 
 Topics include measurement levels, descriptive statistics, sampling distributions, estimation, hypothesis testing, t-tests, one-way ANOVA, nonparametric tests, correlation, simple regression, and power and effect size. 
 Students also develop basic data management skills and gain hands-on experience with statistical software through applied assignments.<br>
-*This course is designed for researchers in medical science seeking an introduction to statistics. Email me for a permission number to enroll. See [syllabus](../_teaching/N911_syllabus.doc) for details.
+*This course is designed for researchers in medical science seeking an introduction to statistics. Email me for a permission number to enroll. See [syllabus](../_teaching/N911_syllabus.docx) for details.
 
 **NURSING 911L: Statistical Programming I**<br>
 *Offered in-person at Pearson building in the Fall semester<br>
