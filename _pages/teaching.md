@@ -6,9 +6,9 @@ author_profile: true
 
 ---
 
-NURSING 966: Quantitative Analysis for Evaluating Health Care Practices
-NURSING 911L: Statistical Programming I
-NURSING 911: Introductory Statistics
+NURSING 966: Quantitative Analysis for Evaluating Health Care Practices<br>
+NURSING 911L: Statistical Programming I<br>
+NURSING 911: Introductory Statistics<br>
       
 Independent Study
 -----
