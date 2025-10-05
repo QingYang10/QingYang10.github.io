@@ -12,5 +12,7 @@ I am an Associate Research Professor and Biostatistician at Duke University Scho
 Work experience
 -----
 *2020-current: Associate Research Professor, Duke University, School of Nursing
+
 *2014-2020: Assistant Research Professor, Duke University, School of Nursing
+
 *2013-2014: Biostatistician, RTI Health Solution
