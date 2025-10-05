@@ -8,10 +8,10 @@ permalink: /grants/
 Current
 -----
 
-[R01-HL146768-05](https://reporter.nih.gov/project-details/10653838)							
-Bennett, Gary & Yang, Qing (MPI)				
-06/31/2024-6/31/2025
-Title: Using digital health to improve diet quality among adults at risk for cardiovascular disease
+[R01-HL146768-05](https://reporter.nih.gov/project-details/10653838)<br>							
+Bennett, Gary & Yang, Qing (MPI)<br>				
+06/31/2024-6/31/2025<br>
+Title: Using digital health to improve diet quality among adults at risk for cardiovascular disease<br>
 Role: Co-PI 
 
 [R01-HL146768-01](https://reporter.nih.gov/project-details/9709981). 							
