@@ -5,10 +5,8 @@ permalink: /publications/
 author_profile: true
 
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can find a complete list of my publication on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Selected Publications
+-----
 
 1.	Yang, Q., Jiang, M., Li, C., Luo, S., Crowley, M. J., & Shaw, R. J. (2024). Predicting health outcomes with intensive longitudinal data collected by mobile health devices: a functional principal component regression approach. BMC Medical Research Methodology, 24(1), 1-10 DOI: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02193-7
 2.	Yang Q, Zhao A, Lee C, Wang X, Vorderstrasse A, Wolever RQ. Latent Profile/Class Analysis Identifying Differentiated Intervention Effects. Nurs Res. 2022 Apr 13; [doi:10.1097/NNR.0000000000000597](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02193-7). PMID: 35417442. 
@@ -17,4 +15,8 @@ author_profile: true
 5.	An, X., Yang, Q., & Bentler, P. M. (2013). A latent factor linear mixed model for high-dimensional longitudinal data analysis. Statistics in Medicine, 32(24), 4229–4239. https://doi.org/10.1002/sim.5825 PMID: 23640746. PMCID: PMC3788857.
 6.	Li, G., & Yang, Q. (2016). Joint Inference for Competing Risks Survival Data. Journal of the American Statistical Association, 111(515), 1289–1300. https://doi.org/10.1080/01621459.2015.1093942 PMID: 31745375. PMCID: PMC6863485. 
 7.	Yang, Q., An, X., & Pan, W. (2019). Computing and graphing probability values of Pearson distributions: a SAS/IML macro. Source Code for Biology and Medicine, 14, 6. https://doi.org/10.1186/s13029-019-0076-2 PMID: 31889995. PMCID: PMC6923921. 
-8.  Shaw, R. J., Barnes, A., Steinberg, D., Vaughn, J., Diane, A., Levine, E., … Yang, Q. (2019). Enhancing Diabetes Self-Management Through Collection and Visualization of Data From Multiple Mobile Health Technologies: Protocol for a Development and Feasibility Trial. JMIR Res Protoc, 8(6), e13517. https://doi.org/10.2196/13517 PMID: 31162127. PMCID: PMC6746071. 
+8.  Shaw, R. J., Barnes, A., Steinberg, D., Vaughn, J., Diane, A., Levine, E., … Yang, Q. (2019). Enhancing Diabetes Self-Management Through Collection and Visualization of Data From Multiple Mobile Health Technologies: Protocol for a Development and Feasibility Trial. JMIR Res Protoc, 8(6), e13517. https://doi.org/10.2196/13517 PMID: 31162127. PMCID: PMC6746071.
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find a complete list of my publication on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
