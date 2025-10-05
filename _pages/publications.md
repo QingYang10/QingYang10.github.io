@@ -11,7 +11,7 @@ author_profile: true
 {% endif %}
 
 1.	Yang, Q., Jiang, M., Li, C., Luo, S., Crowley, M. J., & Shaw, R. J. (2024). Predicting health outcomes with intensive longitudinal data collected by mobile health devices: a functional principal component regression approach. BMC Medical Research Methodology, 24(1), 1-10 DOI: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02193-7
-2.	Yang Q, Zhao A, Lee C, Wang X, Vorderstrasse A, Wolever RQ. Latent Profile/Class Analysis Identifying Differentiated Intervention Effects. Nurs Res. 2022 Apr 13; doi:10.1097/NNR.0000000000000597. PMID: 35417442. 
+2.	Yang Q, Zhao A, Lee C, Wang X, Vorderstrasse A, Wolever RQ. Latent Profile/Class Analysis Identifying Differentiated Intervention Effects. Nurs Res. 2022 Apr 13; [doi:10.1097/NNR.0000000000000597](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02193-7). PMID: 35417442. 
 3.	Yang, Q., Hatch, D., Crowley, M. J., Lewinski, A. A., Vaughn, J., Steinberg, D., … Shaw, R. J. (2020). Digital Phenotyping Self-Monitoring Behaviors for Individuals With Type 2 Diabetes Mellitus: Observational Study Using Latent Class Growth Analysis. JMIR Mhealth Uhealth, 8(6), e17730. https://doi.org/10.2196/17730 PMID: 32525492. PMCID: PMC7317630. 
 4.	Yang, Q., Fung, W, & Li, G. (2018) Sample Size Determination for Jointly Testing A Cause-Specific Hazard and the Overall Hazard in the Presence of Competing Risks. Statistics in Medicine. PMID: 29282764, PMCID: PMC6148356 DOI: 10.1002/sim.7590
 5.	An, X., Yang, Q., & Bentler, P. M. (2013). A latent factor linear mixed model for high-dimensional longitudinal data analysis. Statistics in Medicine, 32(24), 4229–4239. https://doi.org/10.1002/sim.5825 PMID: 23640746. PMCID: PMC3788857.
