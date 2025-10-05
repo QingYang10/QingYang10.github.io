@@ -14,10 +14,10 @@ Bennett, Gary & Yang, Qing (MPI)
 Title: Using digital health to improve diet quality among adults at risk for cardiovascular disease
 Role: Co-PI 
 
-[R01-HL146768-01](https://reporter.nih.gov/project-details/9709981)							
-Steinberg, Dori & Bennett, Gary (MPI)				
-07/01/2019-06/31/2024
-Title: Using digital health to improve diet quality among adults at risk for cardiovascular disease
+[R01-HL146768-01](https://reporter.nih.gov/project-details/9709981). 							
+Steinberg, Dori & Bennett, Gary (MPI). 				
+07/01/2019-06/31/2024. 
+Title: Using digital health to improve diet quality among adults at risk for cardiovascular disease. 
 Role: Co-I 
 
 [5R01NS129617](https://reporter.nih.gov/project-details/11047667)
