@@ -2,7 +2,7 @@
 layout: archive
 title: "Grants"
 permalink: /grants/
-author_profile: false
+author_profile: true
 ---
 
 Current
