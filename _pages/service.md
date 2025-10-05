@@ -8,7 +8,8 @@ author_profile: true
 
 https://sites.duke.edu/qingyang/service/
 
-Webinar sub-committee founding Co-Chair. International Chinese Statistical Association (ICSA). 2023 - 2025
+Webinar sub-committee founding Co-Chair. International Chinese Statistical Association (ICSA). 2023 - 2026 <br>
+Please check out our [YouTube Channel](www.youtube.com/@ICSA-Webinar) for past webinar recordings. If you are interested in organizing any webinar or being a speaker, please contact me. 
 
 Outreach and Engagement Committee Co-Chair. International Chinese Statistical Association (ICSA). 2023 - 2026
 
