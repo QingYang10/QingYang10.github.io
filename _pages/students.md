@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 Current PhD students:
-======
+-----
 
 Dingyue (Demy) Wang
 Topic: Understanding the Multidimensionality of Caregiving Appraisal
@@ -17,7 +17,7 @@ Donghwan Lee
 Role: Dissertation committee member
 
 Former PhD students:
-======
+-----
 
 Youlan Lee
 Topic: The influence of social determinants of health and diet quality on symptom experiences in patients with colorectal cancer
@@ -64,7 +64,7 @@ Topic: Emotional Responses and Mother-Infant Interactions of Malawian Mothers wi
 Role: Committee Member
 
 Former Master students:
-======
+-----
 
 Meilin Jiang, Duke University Biostatistics and Bioinformatics
 Topic: Intensive longitudinal data analysis
