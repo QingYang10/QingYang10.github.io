@@ -21,5 +21,6 @@ Selected Publications
 Complete list of publication
 -----
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find a complete list of my publication on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find a complete list of my publication on my [Duke website](https://sites.duke.edu/qingyang/publication/) or <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+
