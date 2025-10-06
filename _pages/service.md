@@ -14,7 +14,7 @@ International Chinese Statistical Association (ICSA) 2023 - 2026<br>
 * Webinar sub-committee founding Co-Chair. <br>
 International Chinese Statistical Association (ICSA) 2023 - 2026 <br>
   * See details in our [committee flyer](../service/ICSA_webinar_committee_flyer.pdf)<br>
-  * Please check out our [YouTube Channel](http://www.youtube.com/@ICSA-Webinar) for past webinar recordings. 
+  * Please check out our [YouTube Channel](http://youtube.com/@ICSA-Webinar) for past webinar recordings. 
   * If you are interested in organizing any webinar or being a speaker, please contact me. 
 
 
