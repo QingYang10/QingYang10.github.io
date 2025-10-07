@@ -35,7 +35,7 @@ Role: Dissertation committee member
 
 [Se Hee Min](https://www.nursing.upenn.edu/live/profiles/19595-se-hee-min)<br>
 Topic: Symptom Cluster of Midlife Women with Metabolic Syndrome During Menopausal Transition<br>
-Role: Dissertation committee Co-Chair
+Role: Dissertation committee Chair
 
 [Chiyoung Lee](https://nursing.arizona.edu/clee33)<br>
 Topic: Trends in income disparities in CVD risk among older adults in Korea<br>
