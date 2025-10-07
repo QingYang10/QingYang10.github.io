@@ -17,7 +17,6 @@ International Chinese Statistical Association (ICSA) 2023 - 2026 <br>
   * Please check out our [YouTube Channel](http://youtube.com/@ICSA-Webinar) for past webinar recordings. 
   * If you are interested in organizing any webinar or being a speaker, please contact me. 
 
-
 * Conference Organizing Committee and Poster Session Chair <br>
 Duke Industry Statistics Symposium. Duke University. 2019 - 2020
 
