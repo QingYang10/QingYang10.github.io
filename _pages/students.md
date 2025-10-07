@@ -6,6 +6,8 @@ author_profile: true
 
 ---
 
+Open to mentoring students interested in leveraging large databases to tackle research questions in mild TBI, cardiovascular disease, and cancer.
+
 Current PhD students:
 -----
 
