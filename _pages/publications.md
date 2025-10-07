@@ -31,7 +31,4 @@ Selected Publications
 Complete list of publication
 -----
 You can find a complete list of my publication on my [Duke website](https://sites.duke.edu/qingyang/publication/) 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">or <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
