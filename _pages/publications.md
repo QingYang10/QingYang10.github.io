@@ -24,7 +24,7 @@ Selected Publications
 14. Scroggins, J. K., Reuter-Rice, K., Brandon, D., & **Yang, Q.** (2024). Maternal psychological symptom trajectories from 2 to 24 months postpartum: A latent class growth analysis. Nursing research, 73(3), 178-187.[doi](https://doi.org/10.1097/nnr.0000000000000713)
 15. Scroggins, J. K., Brandon, D., Reuter-Rice, K., Min, S. H., & **Yang, Q.** (2024). Changes in maternal psychological symptom profiles from 2 to 6 months postpartum: an application of latent transition analysis. Archives of Women's Mental Health, 27(2), 309-316. [doi](https://doi.org/10.1007/s00737-023-01407-z)
 16. Lee, C., Wolever, R. Q., Min, S. H., Vorderstrasse, A. A., & **Yang, Q.** (2024). Network Psychometrics of the 10-Item Perceived Stress Scale Among Patients With High Cardiovascular and Type 2 Diabetes Risk Using Exploratory Graph Analysis. Journal of Cardiovascular Nursing, 39(2), E36-E43. [doi](https://doi.org/10.1097/jcn.0000000000000996)
-17.  Miller, H. N., Askew, S., Berger, M. B., Kay, M. C., Palipana, A., Trefney, E., …**Yang, Q.**, Bennett, G. G. (2025). Effects of a Digital Intervention to Improve DASH and Blood Pressure Among US Adults. Hypertension, 82(2), 370–381. [doi](https://doi.org/10.1161/HYPERTENSIONAHA.124.23887)
+17. Miller, H. N., Askew, S., Berger, M. B., Kay, M. C., Palipana, A., Trefney, E., …**Yang, Q.**, Bennett, G. G. (2025). Effects of a Digital Intervention to Improve DASH and Blood Pressure Among US Adults. Hypertension, 82(2), 370–381. [doi](https://doi.org/10.1161/HYPERTENSIONAHA.124.23887)
 
 
 
