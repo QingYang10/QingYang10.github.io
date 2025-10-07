@@ -12,13 +12,7 @@ I am passionate about applying contemporary research designs and advanced statis
 
 * Symptom Cluster Research
 My work focuses on disentangling the complex relationships among co-occurring symptoms to identify heterogeneous patient subgroups that share similar symptom patterns. Using advanced statistical approaches, including various latent variable models and factor analysis, I analyze both cross-sectional and longitudinal data to capture how symptom clusters emerge and evolve over time. This line of research provides critical insights into the underlying mechanisms driving symptom co-occurrence and persistence, laying the groundwork for more precise and targeted interventions that address multiple symptoms simultaneously.
-To date, my research has focused on the following areas:
-  * Metabolic syndrome 
-  * Pain
-  * Postpartum symptoms
-  * Traumatic brain injury
-  
-Because this analytic framework is broadly applicable, I welcome collaborations in other disease areas where understanding patient and symptom heterogeneity can inform more personalized and effective symptom management strategies.
+To date, my research has focused on Metabolic syndrome, Pain, Postpartum symptoms and Traumatic brain injury. Since this analytic framework is broadly applicable, I welcome collaborations in other disease areas where understanding patient and symptom heterogeneity can inform more personalized and effective symptom management strategies.
 
 * Mobile Health 
 My research in digital health focuses on harnessing intensive longitudinal data (ILD) from mobile and wearable devices to better understand and predict health behaviors and outcomes. Specifically, I am interested in:
