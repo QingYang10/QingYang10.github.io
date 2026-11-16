@@ -30,11 +30,11 @@ Role: Dissertation committee member
 Topic: Understanding the Multidimensionality of Caregiving Appraisal<br>
 Role: Dissertation committee member
 
-Youlan Lee<br>
+[Youran Lee](https://scholars.duke.edu/person/youran.lee)<br>
 Topic: The influence of social determinants of health and diet quality on symptom experiences in patients with colorectal cancer<br> 
 Role: Dissertation committee member
 
-Nicole Caviness-Ashe<br>
+[Nicole Caviness-Ashe](https://www.uab.edu/cpctp/about/current-trainees/caviness-ashe)<br>
 Topic: Disparities in Health Among Survivors of Acute Leukemia: A Systematic or Systemic Problem<br>
 Role: Dissertation committee member
 
@@ -46,7 +46,7 @@ Role: Dissertation committee member
 Topic: Symptom Cluster of Midlife Women with Metabolic Syndrome During Menopausal Transition<br>
 Role: Dissertation committee Chair
 
-Bonnie Hepler<br>
+[Bonnie Hepler](https://scholars.duke.edu/person/bonnie.hepler)<br>
 Topic: Trajectories of Maternal Needs and their Impact on Mother Infant Interactions<br>
 Role: Committee Member
 
@@ -66,7 +66,7 @@ Role: Committee Member
 Topic: Mobile Technology Based Medication Reminder Program for Patients in China with Coronary Heart Disease<br> 
 Role: Committee Member
 
-Gabrielle Harris<br> 
+[Gabrielle Harris](https://med.unc.edu/cher/cher-team/gabrielle-harris-ph-d-r-n)<br> 
 Topic: Parental stress and the association with change in health status among young adult survivors with school-age children<br> 
 Role: Committee Member
 
