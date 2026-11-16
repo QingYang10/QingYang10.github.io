@@ -26,7 +26,7 @@ Donghwan Lee<br>
 Topic: Digital health in patients with diabetes<br>
 Role: Dissertation committee member
 
-Dingyue (Demy) Wang<br>
+[Dingyue (Demy) Wang](https://hhs.purdue.edu/directory/dingyue-wang/)<br>
 Topic: Understanding the Multidimensionality of Caregiving Appraisal<br>
 Role: Dissertation committee member
 
